@@ -34746,7 +34746,11 @@
             {
               "Name": "Lipophilicity",
               "Value": 1.40017663,
-              "Unit": "Log Units"
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
             }
           ]
         }
@@ -34761,7 +34765,8 @@
               "Value": 0.71,
               "ValueOrigin": {
                 "Source": "Publication",
-                "Method": "InVitro"
+                "Method": "InVitro",
+                "Description": "Neuhoff 2013"
               }
             }
           ]
@@ -34808,7 +34813,6 @@
       "Permeability": [
         {
           "Name": "fitted",
-          "IsDefault": false,
           "Parameters": [
             {
               "Name": "Permeability",
@@ -34837,7 +34841,10 @@
             {
               "Name": "Kd",
               "Value": 25.6,
-              "Unit": "nmol/l"
+              "Unit": "nmol/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification"
+              }
             }
           ]
         },
@@ -34925,7 +34932,12 @@
         {
           "Name": "Molecular weight",
           "Value": 780.93,
-          "Unit": "g/mol"
+          "Unit": "g/mol",
+          "ValueOrigin": {
+            "Source": "Internet",
+            "Method": "InVitro",
+            "Description": "Drugbank"
+          }
         }
       ]
     }
