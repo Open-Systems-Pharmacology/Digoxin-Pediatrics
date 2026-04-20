@@ -2749,22 +2749,6 @@
       ],
       "IntestinalPermeability": [
         {
-          "Name": "Zhao, 2014",
-          "IsDefault": false,
-          "Parameters": [
-            {
-              "Name": "Specific intestinal permeability (transcellular)",
-              "Value": 4.8E-09,
-              "Unit": "dm/min",
-              "ValueOrigin": {
-                "Source": "Publication",
-                "Method": "Other",
-                "Description": "Zhao 2014"
-              }
-            }
-          ]
-        },
-        {
           "Name": "fitted",
           "Parameters": [
             {
@@ -2776,22 +2760,6 @@
         }
       ],
       "Permeability": [
-        {
-          "Name": "Zhao, 2014",
-          "IsDefault": false,
-          "Parameters": [
-            {
-              "Name": "Permeability",
-              "Value": 7.98E-07,
-              "Unit": "dm/min",
-              "ValueOrigin": {
-                "Source": "Publication",
-                "Method": "Other",
-                "Description": "Zhao 2014"
-              }
-            }
-          ]
-        },
         {
           "Name": "fitted",
           "Parameters": [
