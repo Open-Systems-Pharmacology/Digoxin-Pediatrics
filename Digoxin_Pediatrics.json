@@ -711,41 +711,6 @@
               "Mean": 1.0,
               "Deviation": 1.48,
               "Distribution": "LogNormal"
-            },
-            {
-              "Mean": 1.0,
-              "Deviation": 1.48,
-              "Distribution": "LogNormal"
-            },
-            {
-              "Mean": 1.0,
-              "Deviation": 1.48,
-              "Distribution": "LogNormal"
-            },
-            {
-              "Mean": 1.0,
-              "Deviation": 1.48,
-              "Distribution": "LogNormal"
-            },
-            {
-              "Mean": 1.0,
-              "Deviation": 1.48,
-              "Distribution": "LogNormal"
-            },
-            {
-              "Mean": 1.0,
-              "Deviation": 1.48,
-              "Distribution": "LogNormal"
-            },
-            {
-              "Mean": 1.0,
-              "Deviation": 1.48,
-              "Distribution": "LogNormal"
-            },
-            {
-              "Mean": 1.0,
-              "Deviation": 1.48,
-              "Distribution": "LogNormal"
             }
           ],
           "XName": "Post menstrual age",
@@ -917,41 +882,6 @@
             },
             {
               "X": 10.0,
-              "Y": 1.0,
-              "RestartSolver": false
-            },
-            {
-              "X": 15.0,
-              "Y": 1.0,
-              "RestartSolver": false
-            },
-            {
-              "X": 20.0,
-              "Y": 1.0,
-              "RestartSolver": false
-            },
-            {
-              "X": 30.0,
-              "Y": 1.0,
-              "RestartSolver": false
-            },
-            {
-              "X": 40.0,
-              "Y": 1.0,
-              "RestartSolver": false
-            },
-            {
-              "X": 60.0,
-              "Y": 1.0,
-              "RestartSolver": false
-            },
-            {
-              "X": 80.0,
-              "Y": 1.0,
-              "RestartSolver": false
-            },
-            {
-              "X": 100.0,
               "Y": 1.0,
               "RestartSolver": false
             }
@@ -9077,7 +9007,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "PopulationAnalyses": [
         {
           "Type": "TimeProfile",
@@ -14828,14 +14758,14 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "PopulationAnalyses": [
         {
           "Type": "TimeProfile",
           "Analysis": {
             "Fields": [
               {
-                "Name": "Concentration-Nyberg 1980 infants (moderate cl)-Digoxin-Organism-Peripheral Venous Blood-Plasma",
+                "Name": "Concentration-Nyberg 1980 neonates-Digoxin-Organism-Peripheral Venous Blood-Plasma",
                 "Dimension": "Concentration (molar)",
                 "Scaling": "Log",
                 "Unit": "µg/l",
@@ -20568,14 +20498,14 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "PopulationAnalyses": [
         {
           "Type": "TimeProfile",
           "Analysis": {
             "Fields": [
               {
-                "Name": "Concentration-Nyberg 1980 infants (moderate cl)-Digoxin-Organism-Peripheral Venous Blood-Plasma",
+                "Name": "Concentration-Rane 1976 1.3-11m-Digoxin-Organism-Peripheral Venous Blood-Plasma",
                 "Dimension": "Concentration (molar)",
                 "Scaling": "Log",
                 "Unit": "µg/l",
@@ -26308,14 +26238,14 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "PopulationAnalyses": [
         {
           "Type": "TimeProfile",
           "Analysis": {
             "Fields": [
               {
-                "Name": "Concentration-Nyberg 1980 infants (moderate cl)-Digoxin-Organism-Peripheral Venous Blood-Plasma",
+                "Name": "Concentration-Rane 1976 2-5y-Digoxin-Organism-Peripheral Venous Blood-Plasma",
                 "Dimension": "Concentration (molar)",
                 "Scaling": "Log",
                 "Unit": "µg/l",
@@ -32224,14 +32154,14 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "PopulationAnalyses": [
         {
           "Type": "TimeProfile",
           "Analysis": {
             "Fields": [
               {
-                "Name": "Concentration-Nyberg 1980 infants (moderate cl)-Digoxin-Organism-Peripheral Venous Blood-Plasma",
+                "Name": "Concentration-Rane 1976 3-9d-Digoxin-Organism-Peripheral Venous Blood-Plasma",
                 "Dimension": "Concentration (molar)",
                 "Scaling": "Log",
                 "Unit": "µg/l",
